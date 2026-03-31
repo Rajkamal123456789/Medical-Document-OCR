@@ -1,0 +1,5 @@
+creat a new folder
+git pull
+git branch
+git checkout
+creat a new file

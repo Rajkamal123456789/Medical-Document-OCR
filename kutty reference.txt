@@ -1,0 +1,12 @@
+creat a new folder
+git pull
+git branch
+git checkout
+git status
+git add .
+git status
+git email add pannurom
+git name add pannurom
+git commit 
+
+creat a new file

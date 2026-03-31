@@ -2,4 +2,6 @@ creat a new folder
 git pull
 git branch
 git checkout
+git status
+git add .
 creat a new file

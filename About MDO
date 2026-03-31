@@ -1,0 +1,1 @@
+This project converts medical PDFs into images, cleans them using OpenCV, and extracts text using Tesseract OCR. It then uses Regular Expressions (Regex) to parse specific fields such as patient names, dates, and medicine dosages into JSON format.

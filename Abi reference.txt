@@ -1,0 +1,6 @@
+createing a new folder
+git pull
+git checkout abi
+git branch
+git status
+creating a new file

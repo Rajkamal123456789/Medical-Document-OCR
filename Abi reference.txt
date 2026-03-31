@@ -3,4 +3,9 @@ git pull
 git checkout abi
 git branch
 git status
+git add .
+git status
+git commit -m""
+git status 
+git push origin branchname
 creating a new file
